@@ -1,0 +1,42 @@
+html
+{
+	position: relative;
+	margin: 0 0;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+}
+
+body
+{
+	position: relative;
+	width: 50%;
+	margin: 0 auto;
+	border-left: solid 1px #000000;
+	border-right: solid 1px #000000;
+}
+
+#playfield_div
+{
+	margin: 2px auto;
+}
+
+#playfield
+{
+	border: solid 1px #000000;
+}
+
+button
+{
+	width: 30px;
+	height: 25px;
+	border: solid 1px #000000;
+	margin: 0 1px;
+}
+
+.color_twilightsparkle { background-color: #ccacd2; border-color: #9761a9; }
+.color_applejack      { background-color: #fec463; border-color: #f58842; }
+.color_fluttershy     { background-color: #f8f49b; border-color: #f3dc73; }
+.color_rainbowdash    { background-color: #84d5f5; border-color: #4fa9de; }
+.color_pinkiepie      { background-color: #f8bbd5; border-color: #f08eb6; }
+.color_rarity         { background-color: #eef5f8; border-color: #adb9c1; }
